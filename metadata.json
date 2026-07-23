@@ -1,0 +1,6 @@
+{
+  "name": "A Mix of Stories",
+  "description": "An interactive children's storybook app featuring whimsical illustrated tales by Abhinav Mehrotra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
